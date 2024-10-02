@@ -1,4 +1,4 @@
-# What The Hack - Microservices in Azure
+# Hack - Microservices and Monitoring workloads in Azure
 
 ## Introduction
 
@@ -32,9 +32,7 @@ This hack includes a [lecture slide deck](Slides/Lectures.pptx) that features sh
 - Azure CLI (or Cloud Shell)
 
 ## Application architecture
-
-![alt text](image.png)
-
+![alt text](image-1.png)
 ## Repository Contents
 
 - `../Slides`
